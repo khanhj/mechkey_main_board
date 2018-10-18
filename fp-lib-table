@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name SW_footprint)(type KiCad)(uri C:/Users/khanhj/Desktop/Keyboard_2018/main_board3/SW_footprint.pretty)(options "")(descr "")(disabled))
+  (lib (name sw_fprint_wLed)(type KiCad)(uri C:/Users/khanhj/Desktop/Keyboard_2018/sw_fprint_wLed.pretty)(options "")(descr ""))
+  (lib (name FOOTPRINT)(type KiCad)(uri C:/Users/khanhj/Desktop/Keyboard_2018/FOOTPRINT)(options "")(descr "")(disabled))
+  (lib (name main_board4)(type KiCad)(uri C:/Users/khanhj/Desktop/Keyboard_2018/main_board4)(options "")(descr ""))
+)
