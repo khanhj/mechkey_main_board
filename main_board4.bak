@@ -1832,7 +1832,7 @@ U 1 1 5963FAD0
 P 7750 14250
 F 0 "MCU1" H 7600 14200 60  0000 C CNN
 F 1 "Teensy2.0++" H 7750 14100 60  0000 C CNN
-F 2 "sw_fprint_wLed:Teensy2.0++_footprint" H 7750 14250 60  0001 C CNN
+F 2 "sw_fprint_wLed:Teensy2.0++_footprint_assigned" H 7750 14250 60  0001 C CNN
 F 3 "" H 7750 14250 60  0001 C CNN
 	1    7750 14250
 	1    0    0    -1  
